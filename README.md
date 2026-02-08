@@ -1,4 +1,7 @@
 # TextUtils React App
+# Live Demo
+https://textutils-react-hazel.vercel.app/
+ 
  
 TextUtils is a simple React-based web application that allows users to analyze and manipulate text easily.  
 It also includes **Light/Dark Mode** and an **About section** for better UI experience.
